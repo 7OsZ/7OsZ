@@ -20,6 +20,6 @@ Fresh graduate in Informatics with a strong interest in full-stack development a
 
 ## GitHub Stats
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=7OsZ&langs_count=8)](https://github.com/7OsZ)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=7OsZ&langs_count=8&theme=yeblu)](https://github.com/7OsZ)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" />
