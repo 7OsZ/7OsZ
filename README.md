@@ -10,27 +10,16 @@ Fresh graduate in Informatics with a strong interest in full-stack development a
 </div>
 
 ## Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,js,mysql,java&perline=7" />
-</div>
+<img src="https://skillicons.dev/icons?i=laravel,js,mysql,java&perline=7" />
 
 ## Learning
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,go,postgres&perline=5" />
-</div>
+<img src="https://skillicons.dev/icons?i=dart,go,postgres&perline=5" />
 
 ## Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea&perline=6" />
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,idea&perline=6" />
 
 ## GitHub Stats
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-</div>
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=7OsZ&langs_count=8)](https://github.com/7OsZ)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,100:0f2027&section=footer" width="100%" />
